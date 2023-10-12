@@ -10,8 +10,8 @@ This repository contains my current research work in Quantum technology. My prim
 >> Verifiable Qauntum Advantage without structure [Yamakawa-Zhandry 2022]
 >> 
 ⭐ Quantum Linear System Algorithms (QLSA)
->
->> Efficient Quantum Algorithms for Dissipative Nonlinear Differential Equation
+> Paper reviews
+>> Efficient Quantum Algorithms for Dissipative Nonlinear Differential Equation [Jin-Peng Liu,..., Andrew Childs 2021]
 >>
->> Towards provably efficient Quantum algorithms for large-scale Machine-learning models
+>> Towards provably efficient Quantum algorithms for large-scale Machine-learning models [Pre-print: JunyuLiu,.., Liang Jiang 2023]
 >>
