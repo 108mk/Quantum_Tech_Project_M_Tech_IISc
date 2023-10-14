@@ -14,4 +14,11 @@ This repository contains my current research work in Quantum technology. My prim
 >> Efficient Quantum Algorithms for Dissipative Nonlinear Differential Equation [Jin-Peng Liu,..., Andrew Childs 2021]
 >>
 >> Towards provably efficient Quantum algorithms for large-scale Machine-learning models [Pre-print: JunyuLiu,.., Liang Jiang 2023]
->>
+
+## Phase-II (November- December 23): Research Proposal with exact problem Statement 
+> Drafting the problem statement with a tentative roadmap to approach it.
+>
+> Approval from the advisor and M.Tech project committee.
+
+## Phase-III (January- June 24): Working on the Proposal.
+> ... (to be updated in due date)
