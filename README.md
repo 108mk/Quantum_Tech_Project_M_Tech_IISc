@@ -5,17 +5,17 @@ This repository contains my current research work in Quantum technology. My prim
 ⭐ Quantum Complexity Theory (QCT)
 > Paper reviews
 >> Forrelation: A problem that optimally separates quantum and classical computation [Aaronson-Ambianis 2015]. (Reviewed; see presentation folder)
->>
+>
 >> Oracle separation of BQP and PH(Polynomial Hierarchy) [Raz-Tal 2018]. (Partially reviewed. Forrelation)
->> 
+> 
 >> Verifiable Qauntum Advantage without structure [Yamakawa-Zhandry 2022]. (Reviewed; see presentation folder)
->> 
+> 
 ⭐ Quantum Linear System Algorithms (QLSA)
 > Paper reviews
 >> Efficient Quantum Algorithms for Dissipative Nonlinear Differential Equation [Jin-Peng Liu,..., Andrew Childs 2021]. (Reviewed; see presentation folder) 
->>
+>
 >> Towards provably efficient Quantum algorithms for large-scale Machine-learning models [Pre-print: JunyuLiu,.., Liang Jiang 2023] (Review undergoing)
->>
+>
 >> Potential quantum advantage for simulation of fluid dynamics [Pre-print: Xiangyu Li, ...J. Mülmenstädt 2023] (Review undergoing)
 
 ## Phase-II (November- December 23): Research Proposal with exact problem Statement 
