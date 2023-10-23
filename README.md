@@ -1,19 +1,28 @@
 # Quantum_Tech_Project_M_Tech_IISc
 This repository contains my current research work in Quantum technology. My primary interest is in knowing "WHY" and "WHERE" Quantum-ness can be used as a resource in computation. 
+
+The core research theme that I aim to touch on are:
+
+1. Quantum for Quantum: Simulating Quantum systems via quantum algorithms has been long considered since 80' (due to Y. Manin and R. Feynmann).
+  
+2. Quantum for Classical: "How efficient can it be to simulate classical systems via quantum algorithms?" There are numerous classical systems of academic and industrial importance. It is still to be explored to know how helpful the quantum algorithmic paradigms could be.
+
 ## Phase-I (August-October '23): Review of Quantum algorithms
 ⭐ Quantum Complexity Theory (QCT)
 > Paper reviews
->> Forrelation: A problem that optimally separates quantum and classical computation [Aaronson-Ambianis 2015]
->>
->> Oracle separation of BQP and PH(Polynomial Hierarchy) [Raz-Tal 2018]
->> 
->> Verifiable Qauntum Advantage without structure [Yamakawa-Zhandry 2022]
->> 
+>> Forrelation: A problem that optimally separates quantum and classical computation [Aaronson-Ambianis 2015]. (Reviewed; see presentation folder)
+>
+>> Oracle separation of BQP and PH(Polynomial Hierarchy) [Raz-Tal 2018]. (Partially reviewed. Forrelation)
+> 
+>> Verifiable Qauntum Advantage without structure [Yamakawa-Zhandry 2022]. (Reviewed; see presentation folder)
+> 
 ⭐ Quantum Linear System Algorithms (QLSA)
 > Paper reviews
->> Efficient Quantum Algorithms for Dissipative Nonlinear Differential Equation [Jin-Peng Liu,..., Andrew Childs 2021]
->>
->> Towards provably efficient Quantum algorithms for large-scale Machine-learning models [Pre-print: JunyuLiu,.., Liang Jiang 2023]
+>> Efficient Quantum Algorithms for Dissipative Nonlinear Differential Equation [Jin-Peng Liu,..., Andrew Childs 2021]. (Reviewed; see presentation folder) 
+>
+>> Towards provably efficient Quantum algorithms for large-scale Machine-learning models [Pre-print: JunyuLiu,.., Liang Jiang 2023] (Review undergoing)
+>
+>> Potential quantum advantage for simulation of fluid dynamics [Pre-print: Xiangyu Li, ...J. Mülmenstädt 2023] (Review undergoing)
 
 ## Phase-II (November- December 23): Research Proposal with exact problem Statement 
 > Drafting the problem statement with a tentative roadmap to approach it.
