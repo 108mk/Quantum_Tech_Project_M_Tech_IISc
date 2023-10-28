@@ -7,7 +7,7 @@ The core research theme that I aim to touch on are:
   
 2. Quantum for Classical: "How efficient can it be to simulate classical systems via quantum algorithms?" There are numerous classical systems of academic and industrial importance. It is still to be explored to know how helpful the quantum algorithmic paradigms could be.
 
-## Phase-I (August-October '23): Review of Quantum algorithms
+## Phase-I (August-November '23): Review of Quantum algorithms
 ⭐ Quantum Complexity Theory (QCT)
 > Paper reviews
 >> Forrelation: A problem that optimally separates quantum and classical computation [Aaronson-Ambianis 2015]. (Reviewed; see presentation folder)
@@ -24,7 +24,10 @@ The core research theme that I aim to touch on are:
 >
 >> Potential quantum advantage for simulation of fluid dynamics [Pre-print: Xiangyu Li, ...J. Mülmenstädt 2023] (Review undergoing)
 
-## Phase-II (November- December 23): Research Proposal with exact problem Statement 
+⭐Combinatorial Optimization using Quantum algorithms
+> 
+
+## Phase-II (December 23): Research Proposal with exact problem Statement 
 > Drafting the problem statement with a tentative roadmap to approach it.
 >
 > Approval from the advisor and M.Tech project committee.
