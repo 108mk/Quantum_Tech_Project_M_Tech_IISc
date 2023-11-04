@@ -1,12 +1,13 @@
 # Quantum_Tech_Project_M_Tech_IISc
 This repository contains my current research work in Quantum technology. My primary interest is in knowing "WHY" and "WHERE" Quantum-ness can be used as a resource in computation. 
-
+<!---
 The core research theme that I aim to touch on are:
 
 1. Quantum for Quantum: Simulating Quantum systems via quantum algorithms has been long considered since 80' (due to Y. Manin and R. Feynmann).
   
 2. Quantum for Classical: "How efficient can it be to simulate classical systems via quantum algorithms?" There are numerous classical systems of academic and industrial importance. It is still to be explored to know how helpful the quantum algorithmic paradigms could be.
 
+--->
 ## Phase-I (August-November '23): Review  of different domains of Quantum Computing
 ⭐ Quantum Complexity Theory (QCT)
 > Paper reviews
