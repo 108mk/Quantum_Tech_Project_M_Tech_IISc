@@ -30,7 +30,7 @@ The core research theme that I aim to touch on are:
 > Paper reviews
 >> A review on Quantum Approximate Optimization Algorithm (QAOA) and its variant [Kostas Blekos, ..., Alessamdro Summer 2023] (Review Ongoing)
 >
->> Quantum computing for finance: Nature Reviews Physics [Herman, ..., Alexeev](https://www.nature.com/articles/s42254-023-00603-1)  
+>> Quantum computing for finance: Nature Reviews Physics [ [Herman, ..., Alexeev] ](https://www.nature.com/articles/s42254-023-00603-1) (Review Ongoing)
 
 ## Phase-II (December 23): Research Proposal with exact problem Statement 
 > Drafting the problem statement with a tentative roadmap to approach it.
