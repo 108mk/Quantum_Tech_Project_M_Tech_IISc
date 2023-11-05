@@ -26,7 +26,7 @@ The core research theme that I aim to touch on are:
 >
 >> Towards provably efficient Quantum algorithms for large-scale Machine-learning models [Pre-print: JunyuLiu,.., Liang Jiang 2023] (Reviewed; see presentation folder)
 
-⭐ Combinatorial Optimization using Quantum algorithms
+⭐ Quantum algorithms for Optimization and Finance
 > Paper reviews
 >> A review on Quantum Approximate Optimization Algorithm (QAOA) and its variant [Kostas Blekos, ..., Alessamdro Summer 2023] (Review Ongoing)
 >
