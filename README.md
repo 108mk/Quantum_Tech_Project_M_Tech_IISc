@@ -26,11 +26,13 @@ The core research theme that I aim to touch on are:
 >
 >> Towards provably efficient Quantum algorithms for large-scale Machine-learning models [Pre-print: JunyuLiu,.., Liang Jiang 2023] (Reviewed; see presentation folder)
 
-⭐ Quantum algorithms for Optimization and Finance
+⭐ Quantum Algorithms for Optimization
 > Paper reviews
->> A review on Quantum Approximate Optimization Algorithm (QAOA) and its variant [Kostas Blekos, ..., Alessamdro Summer 2023] (Review Ongoing)
+>> A review on Quantum Approximate Optimization Algorithm (QAOA) and its variant [Kostas Blekos, ..., Alessandro Summer 2023] (Review Ongoing)
 >
->> Quantum computing for finance: Nature Reviews Physics [ [Herman, ..., Alexeev] ](https://www.nature.com/articles/s42254-023-00603-1) (Review Ongoing)
+>> Quantum computing for finance: Nature Reviews Physics [Herman, ..., Alexeev 2023]  (Review Ongoing)
+>
+>>   Ising machines as hardware solvers of combinatorial optimization problems [Mohseni, ..., Byners 2022] (Review Ongoing)
 
 ## Phase-II (December 23): Research Proposal with exact problem Statement 
 > Drafting the problem statement with a tentative roadmap to approach it.
