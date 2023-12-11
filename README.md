@@ -31,8 +31,10 @@ The core research theme that I aim to touch on are:
 >> A review on Quantum Approximate Optimization Algorithm (QAOA) and its variant [Kostas Blekos, ..., Alessandro Summer 2023] (Review Ongoing)
 >
 >> Quantum computing for finance: Nature Reviews Physics [Herman, ..., Alexeev 2023]  (Review Ongoing)
->
->>   Ising machines as hardware solvers of combinatorial optimization problems [Mohseni, ..., Byners 2022] (Review Ongoing)
+
+⭐ Quantum Learning theory
+> Paper reviews
+>> Quantum Learning of Concentrated Boolean Functions [Krishna Palem, Duc Hung Pham, M. V. Panduranga Rao (2022)] (Reviewed; see presentation folder) 
 
 ## Phase-II (December 23): Research Proposal with exact problem Statement 
 > Drafting the problem statement with a tentative roadmap to approach it.
