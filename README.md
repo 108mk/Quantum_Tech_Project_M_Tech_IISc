@@ -24,7 +24,11 @@ The core research theme that I aim to touch on is:
 > Paper reviews
 >> Efficient Quantum Algorithms for Dissipative Nonlinear Differential Equations [Jin-Peng Liu,..., Andrew Childs 2021]. (Reviewed; see presentation folder) 
 >
+>> Further improving quantum algorithms for nonlinear differential equations via higher-order methods and rescaling [Costa, Pedro C. S.; Schleich, Philipp; Morales, Mauro E. S.; Berry, Dominic W. (2023)]
+>
 >> Towards provably efficient Quantum algorithms for large-scale Machine-learning models [Pre-print: JunyuLiu,.., Liang Jiang 2023] (Reviewed; see presentation folder)
+
+
 
 ⭐ Quantum Algorithms for Optimisation
 > Paper reviews
