@@ -38,9 +38,12 @@ The core research theme that I aim to touch on is:
 
 ## Phase-II (December 23): Research Proposal with exact problem Statement 
 > Exploring some possibilities to enhance the computational complexity of the quantum algorithm for the Reaction-Diffusion System proposed by Costa et al (2023).
+> 
 > We hypothesise there is some room for improvement if we replace the truncated Taylor series employed by Costa et al (2023) with a Chebyshev series-based method.
 
 ## Phase-III (January- June 24): Working on the Proposal.
 > Finally, I have uploaded my findings to arXiv: [https://arxiv.org/abs/2510.19855](https://arxiv.org/abs/2510.19855).
+> 
 >  Special thanks to Dr Apoorva D. Patel at IISc Bengaluru.
+> 
 > I acknowledge Guoming Wang ([https://arxiv.org/pdf/2509.07155](https://arxiv.org/pdf/2509.07155)) for (i) noticing one definitional error in the first version published on arxiv, and (ii) a suggestion for some improvement related to convergence criteria for the non-linear systems studied in my paper.
